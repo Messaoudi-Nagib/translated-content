@@ -13,7 +13,7 @@ La fonction `concat` concatène deux ou plusieurs chaînes et retourne la chaîn
 ### Syntaxe
 
 ```
-concat( chaîne1 , chaîne2 [, chaînen]* )
+concat( chaîne1 , chaîne2 , [ chaînen]* )
 ```
 
 ### Arguments
